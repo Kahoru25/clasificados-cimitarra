@@ -1,9 +1,11 @@
+
 .logo{
     width: auto;
     height: 400px;
     display: block;
     margin: auto;
 }
+
 
 .container-logo-text{
     display: flex;
@@ -26,5 +28,19 @@
 
     .container-logo-text{
         display: block;
+        padding-bottom: 50px;
+        text-align: center;
+        
+    }
+
+    .logo{
+        width: auto;
+        height: 200px;
+        display: block;
+        margin: auto;
+    }
+
+    h1{
+        font-size: 5px;
     }
 }
