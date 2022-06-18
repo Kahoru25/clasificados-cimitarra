@@ -40,7 +40,21 @@
         margin: auto;
     }
 
-    h1{
-        font-size: 5px;
+}
+
+@media only screen and (max-width:260px){
+
+    .container-logo-text{
+        display: block;
+        padding-bottom: 40px;
+        text-align: center;
     }
+
+    .logo{
+        width: auto;
+        height: 200px;
+        display: block;
+        margin: auto;
+    }
+
 }
