@@ -1,12 +1,4 @@
 
-.logo{
-    width: auto;
-    height: 400px;
-    display: block;
-    margin: auto;
-}
-
-
 .container-logo-text{
     display: flex;
 }
@@ -33,12 +25,7 @@
         
     }
 
-    .logo{
-        width: 200gitpx;
-        height: auto;
-        display: block;
-        margin: auto;
-    }
+
 
 }
 
@@ -50,11 +37,6 @@
         text-align: center;
     }
 
-    .logo{
-        width: 150px;
-        height: auto;
-        display: block;
-        margin: auto;
-    }
+
 
 }
