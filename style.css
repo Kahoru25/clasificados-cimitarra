@@ -34,8 +34,8 @@
     }
 
     .logo{
-        width: auto;
-        height: 200px;
+        width: 200gitpx;
+        height: auto;
         display: block;
         margin: auto;
     }
@@ -51,8 +51,8 @@
     }
 
     .logo{
-        width: auto;
-        height: 200px;
+        width: 150px;
+        height: auto;
         display: block;
         margin: auto;
     }
