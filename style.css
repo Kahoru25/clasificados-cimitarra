@@ -3,6 +3,12 @@
     display: flex;
 }
 
+.logo{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
 
 
 .texto-main{
@@ -37,6 +43,11 @@
         text-align: center;
     }
 
-
+    .logo{
+        width: 150px;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
 
 }
