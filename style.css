@@ -1,0 +1,30 @@
+.logo{
+    width: auto;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+
+.container-logo-text{
+    display: flex;
+}
+
+
+
+.texto-main{
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:991px){
+
+    .container-logo-text{
+        display: block;
+    }
+}
