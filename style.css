@@ -29,10 +29,16 @@
     margin: auto;
 }
 
-.text-infoball{
-    justify-items: end;
+.text-ballspub{
+    border-bottom: solid rgba(0, 0, 0, 0.26) 1px;
+    padding-bottom: 30px;
+    padding-top: 60px;
 }
 
+.tittle-balls{
+    font-size: 35px;
+    font-weight: 300;
+}
 
 
 
