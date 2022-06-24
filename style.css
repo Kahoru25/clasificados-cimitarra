@@ -30,7 +30,7 @@
 }
 
 .text-ballspub{
-    border-bottom: solid rgba(0, 0, 0, 0.26) 1px;
+    border-bottom: solid rgba(0, 0, 0, 0.336) 1px;
     padding-bottom: 30px;
     padding-top: 60px;
 }
@@ -54,6 +54,11 @@
         
     }
 
+    .text-ballspub{
+        border-bottom: solid rgba(0, 0, 0, 0.336) 2px;
+        padding-bottom: 30px;
+        padding-top: 60px;
+    }
 
 
 }
@@ -71,6 +76,12 @@
         height: auto;
         display: block;
         margin: auto;
+    }
+
+    .text-ballspub{
+        border-bottom: solid rgba(0, 0, 0, 0.336) 4px;
+        padding-bottom: 30px;
+        padding-top: 60px;
     }
 
 }
