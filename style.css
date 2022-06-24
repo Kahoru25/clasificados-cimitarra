@@ -46,12 +46,35 @@
 
 
 @media only screen and (max-width:991px){
+    .logo{
+        width: 200px;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
 
     .container-logo-text{
         display: block;
         padding-bottom: 50px;
         text-align: center;
         
+    }
+
+    .texto-main{
+        border-top: solid 1px;
+        border-bottom: solid 1px;
+        padding-bottom: 15px;
+        
+    }
+    
+    .texto-h1{
+        position: relative;
+        top: 20px;
+        font-size: 30px;
+    }
+
+    .texto-p{
+        font-size: 5px;
     }
 
     .text-ballspub{
