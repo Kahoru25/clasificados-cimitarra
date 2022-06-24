@@ -3,6 +3,20 @@
     display: flex;
 }
 
+.texto-main{
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    padding-bottom: 15px;
+    
+}
+
+.texto-h1{
+    position: relative;
+    top: 20px;
+    font-size: 50px;
+}
+
+
 .logo{
     width: 400px;
     height: auto;
@@ -15,6 +29,9 @@
     margin: auto;
 }
 
+.text-infoball{
+    justify-items: end;
+}
 
 
 
