@@ -50,7 +50,19 @@ button {
     cursor:pointer;
     overflow: hidden; 
     color: white;
+    text-decoration: none;
+    
 }
+a:link, a:visited, a:active{
+    text-decoration: none;
+    color: red;
+}
+
+a:visited{
+    color: white;
+}
+
+
 
 button:hover {
     background-color: Transparent;
@@ -58,7 +70,6 @@ button:hover {
     border: none;
     cursor:pointer;
     overflow: hidden; 
-    color: rgb(221, 218, 22);
 }
 
 .footer{
