@@ -1,4 +1,5 @@
 
+
 .container-logo-text{
     display: flex;
 }
@@ -41,8 +42,28 @@
     font-weight: 300;
 }
 
+button {
+    text-align: center;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+    color: white;
+}
 
+button:hover {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+    color: rgb(221, 218, 22);
+}
 
+.footer{
+    margin-top: 70px;
+}
 
 
 
@@ -111,3 +132,6 @@
     }
 
 }
+
+
+

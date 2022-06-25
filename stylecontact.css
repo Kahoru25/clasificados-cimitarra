@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+.container-fix{
+    width: 600px;
+    margin: auto;
+    background-color: rgba(254, 212, 179, 0.555);
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.tittle{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.subtittle{
+    text-align: center;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.521);
+}
+
+.button-s{
+    text-align: center;
+}
+
+button{
+    width: 150px;
+}
+
+
+
+
+@media only screen and (max-width:991px){
+    .container-fix{
+        width: 600px;
+        margin: auto;
+        background-color: rgba(172, 173, 64, 0.336);
+        border-radius: 5px;
+        padding: 50px;
+    }
+
+
+}
+
+@media only screen and (max-width:634px){
+    .container-fix{
+        width: 400px;
+        margin: auto;
+        background-color: rgba(172, 173, 64, 0.336);
+        border-radius: 5px;
+        padding: 50px;
+    }
+
+
+}
+
+@media only screen and (max-width:432px){
+    .container-fix{
+        width: 300px;
+        margin: auto;
+        background-color: rgba(172, 173, 64, 0.336);
+        border-radius: 5px;
+        padding: 30px;
+    }
+
+
+}
+
+
+@media only screen and (max-width:316px){
+    .container-fix{
+        width: 250px;
+        margin: auto;
+        background-color: rgba(172, 173, 64, 0.336);
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+
+}
